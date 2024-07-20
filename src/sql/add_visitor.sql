@@ -1,0 +1,1 @@
+INSERT INTO Frequent_Visitor VALUES (?,?,?,?,?,?)

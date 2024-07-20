@@ -1,0 +1,1 @@
+SELECT ID FROM Frequent_Visitor ORDER BY ID DESC LIMIT 1
